@@ -24,19 +24,19 @@ time_signature integer NOT NULL )
 
 SELECT * FROM BIT_DB.Spotifydata;
 
-#--What are the top 10 tracks based on popularity and those artsits?
+## What are the top 10 tracks based on popularity and those artsits?
 SELECT artist_name, track_name, popularity
 FROM BIT_DB.Spotifydata
 ORDER BY popularity desc
 LIMIT 10;
 
-#--What are the 3 longest songs released?
+## What are the 3 longest songs released?
 SELECT artist_name,track_name, duration_ms
 FROM BIT_DB.Spotifydata 
 ORDER BY duration_ms desc
 LIMIT 3;
 
-#--What is the average danceability by artist and track? 
+## What is the average danceability by artist and track? 
 SELECT AVG(danceability) as avg_danceability
 , artist_name
 , track_name
