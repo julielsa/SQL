@@ -1,7 +1,8 @@
 > ## SQL Portfolio
 ### Welcome! 🤩
 
-_Explore my assortment of SQL projects in this repository! It houses a variety of SQL scripts I've crafted._
+_Explore my assortment of SQL projects in this repository! 
+It houses a variety of SQL scripts I've crafted during my Break Into Tech Course by Charlotte Chaze._
 
 You're welcome to take a look at them and I encourage you to reach out if you have any questions or need additional details. 🖌️
 
