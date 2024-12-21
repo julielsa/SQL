@@ -4,8 +4,7 @@
 _Explore my assortment of SQL projects in this repository! 
 It houses a variety of SQL scripts I've crafted during my Break Into Tech Course by Charlotte Chaze._
 
-You're welcome to take a look at them and I encourage you to reach out if you have any questions or need additional details. 🖌️
-
+#### Featured SQL Projects
 | Project Title | Project Description |
 | :---: | :--- |
 | Superstore Database | Using this Superstore sample data I write SQL queries to answer item price statistics. |
